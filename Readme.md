@@ -2,11 +2,11 @@ DL_FinalProject
 
 시각장애인을 위한 드러그스토어 음성안내 서비스💊💄
 
-- NLP 서비스 활용 프로젝트 
-/nKonlpy_Hananum_Tag
-/nKoSentence_BERT
-/nreact-native-voice tts & stt
-/nNaver OCR API
+NLP 서비스 활용 프로젝트 
+- Konlpy_Hananum_Tag
+- KoSentence_BERT
+- react-native-voice tts & stt
+- Naver OCR API
  
 ![슬라이드1](https://user-images.githubusercontent.com/70250251/231472632-4e9dac3e-d503-4dd3-b640-737f897b6958.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/70250251/231472640-9fc65951-d4dd-4c4d-ae5d-17387e757565.JPG)
